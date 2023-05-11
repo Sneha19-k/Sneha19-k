@@ -1,5 +1,4 @@
 <p align="center">
-   <br>
   <samp>
     Hello! I'm <b><a href="https://sneha19-k.github.io/mycsssite/">Sneha</a></b>.
     <br>I'm a Computer Science Undergraduate Student from India.<br>
